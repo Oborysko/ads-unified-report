@@ -1,4 +1,4 @@
-# ads-unified-report
+# Ads Unified Report — SQL Project for Cross-Platform Ad Analytics
 This SQL project merges advertising performance data from Facebook and Google Ads into a single, unified report. It uses JOINs, UNION ALL, and GROUP BY to combine campaign and ad set metadata, and aggregates key metrics such as spend, impressions, clicks, and value.
 
 It combines data from multiple ad platforms, joins campaign and ad set metadata for Facebook, and aggregates daily metrics across campaigns and ad sets. The final output is a clean report grouped by date, media source, campaign, and ad set.
